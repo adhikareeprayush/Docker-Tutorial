@@ -84,44 +84,4 @@ The big difference between containers and virtual machines is that virtual machi
 
 ![1716811214471](image/README/1716811214471.png)
 
-stallation
-
-[Provide instructions on how to install Docker on different platforms.]
-
-## Docker Basics
-
-[Explain the basic concepts of Docker, such as containers, images, and registries.]
-
-## Docker Images
-
-[Discuss how to work with Docker images, including pulling, building, and pushing images.]
-
-## Docker Containers
-
-[Explain how to create and manage Docker containers, including starting, stopping, and removing containers.]
-
-## Docker Compose
-
-[Discuss how to use Docker Compose to define and run multi-container applications.]
-
-## Docker Networking
-
-[Explain how to configure networking for Docker containers, including exposing ports and linking containers.]
-
-## Docker Volumes
-
-[Discuss how to use Docker volumes to persist data between container restarts.]
-
-## Dockerfile
-
-[Explain how to create Docker images using Dockerfile, including adding dependencies and configuring the environment.]
-
-## Docker Best Practices
-
-[Provide best practices for working with Docker, including security, performance, and scalability considerations.]
-
-## Additional Resources
-
-[Include links to additional resources, such as books, tutorials, and official Docker documentation.]
-
-[Feel free to add more details and examples to each section as needed.]
+![1716811242156](image/README/1716811242156.png)
